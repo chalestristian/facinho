@@ -8,7 +8,7 @@
   </a>
   <h1 align="center">Facinho</h1>
   <h3 align="center">
-    Simplificando a vida do impreendedor!
+    Simplificando a vida do empreendedor!
   </h3>
 </div>
 
