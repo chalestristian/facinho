@@ -18,28 +18,14 @@
 <img src="img/screenshot_login.png" alt="Logo">
 </div>
 
+Projeto desenvolvido sob iniciativa do Hackathon ofertado pelo Ânima Lab HUB, a área de TI & Computação do Ecossistema Ânima e o PMI (Project Management Institute) em parceria com a Gerando Falcões.
 
+Trata-se de um desafio em que os alunos utilizaram recursos da Microsoft Power Hub Tool através do PMI, para soluções de apoio às favelas assistidas pela Gerando Falcões, a partir de um case de exemplo de empreendedores dessas comunidades. 
 
+A partir desse programa piloto, conseguimos nos capacitar para obter
+o PMI Citizen Development e Microsoft Certification, além do apoio à comunidade através do impacto social.
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
+## Como Utilizar
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
