@@ -53,5 +53,5 @@ Para excecutar o PowerApps, siga os passos abaixo:
 
 10. Selecione o arquivo clonado com o nome abaixo e clique em abrir:
    ```sh
-   facinhov2vivi.msapp.zip
+   facinho.msapp.zip
    ```
